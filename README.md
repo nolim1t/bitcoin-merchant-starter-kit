@@ -5,7 +5,19 @@ The purpose of this project is to provide awareness of how merchants can accept 
 
 There are multiple ways of doing this. At the easiest and quickest way, we recommend using mobile wallets.
 
+## Table of Contents
+
+Please see the following sections.
+
+* [Mobile Wallets](#mobile-wallets)
+* [Server based Wallets](#server-based)
+* [POS Integration / Processing](#processing-the-payment-and-integration)
+* [Offloading the coins](#offloading-the-coins)
+* [Maintainer notes](#maintainers-notes)
+
 ## Maintainers Notes
+
+If you want to add to this document please see the below. Including mirroring.
 
 ### Housekeeping
 
