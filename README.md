@@ -1,4 +1,5 @@
 # Bitcoin Merchant starter kit
+![Bitcoin Logo](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/raw/master/bitcoin-small.png)
 
 The purpose of this project is to provide awareness of how merchants can accept Bitcoin payments.
 
