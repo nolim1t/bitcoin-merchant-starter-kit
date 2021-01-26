@@ -5,6 +5,22 @@ The purpose of this project is to provide awareness of how merchants can accept 
 
 There are multiple ways of doing this. At the easiest and quickest way, we recommend using mobile wallets.
 
+## Maintainers Notes
+
+### Housekeeping
+
+#### Changes
+
+Please open a [new issue](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/issues/new) with the change you would like to add.
+
+Or if you are more technical, you may fork this project and open a pull request.
+
+#### Mirrors
+
+This project is available in the public domain on the following sites:
+
+* [Gitlab](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
+
 ## Mobile Wallets
 
 * [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments.
