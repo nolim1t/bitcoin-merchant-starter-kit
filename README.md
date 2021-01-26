@@ -14,6 +14,7 @@ Please see the following sections.
 * [POS Integration / Processing](#processing-the-payment-and-integration)
 * [Offloading the coins](#offloading-the-coins)
 * [Maintainer notes](#maintainers-notes)
+* [Existing Merchants](#existing-merchants)
 
 ## Maintainers Notes
 
@@ -52,6 +53,13 @@ The best thing to do with existing point of sale systems is to treat this as a C
 
 We recommend due to the low volume of transactions and the potential of them increasing in value, that you hold on to the coins. Think of it as small savings.
 
+Eventually the plan is to create a closed loop economy where there is enough services and goods to sustain this. Thank you for being an early adopter!
+
 The next best option would be to use [nexo](https://nexo.io) to obtain a cash loan based on your crypto assets to manage cashflow.
 
-Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or engage someone in the local community on advise.
+Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or you can sell it locally directly. Or engage someone in the local community for full advise.
+
+## Existing Merchants
+
+If you have built your business, few free to be requested to be added to [the following list](https://gitlab.com/nolim1t/bitcoin-merchants). You are required to show proof that you have done so too, or have someone show proof.
+
