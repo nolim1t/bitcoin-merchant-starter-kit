@@ -36,8 +36,18 @@ This project is available in the public domain on the following sites:
 
 ## Mobile Wallets
 
+The easiest solution is to have a dedicated phone set up for receiving payments. As most people know how to use the phone.
+
 * [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments.
 * [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments
+
+### Setting up a mobile wallet
+
+When setting up a mobile wallet, It is important that you have a pen and paper handy to write down the backup phrases.
+
+It is safe enough to keep this with the cash register for now as the amount of cash in the cash register probably will exceed the amount of cash in the bitcoin wallet.
+
+You can also move most of the funds to your own wallet after it is above a certain amount for safekeeping.
 
 ## Server Based
 
