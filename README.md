@@ -59,6 +59,8 @@ The next best option would be to use [nexo](https://nexo.io) to obtain a cash lo
 
 Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or you can sell it locally directly. Or engage someone in the local community for full advise.
 
+A good local option that might be available to you use [HODLHODL](https://hodlhodl.com)
+
 ## Existing Merchants
 
 If you have built your business, few free to be requested to be added to [the following list](https://gitlab.com/nolim1t/bitcoin-merchants). You are required to show proof that you have done so too, or have someone show proof.
