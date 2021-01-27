@@ -8,6 +8,7 @@ before_script:
     - bundle install
     - git submodule sync --recursive
     - git submodule foreach git pull origin master
+    - ./scripts/rename-tool.sh
 
 pages:
     except:
