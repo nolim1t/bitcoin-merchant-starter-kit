@@ -32,14 +32,16 @@ Or if you are more technical, you may fork this project and open a pull request.
 
 This project is available in the public domain on the following sites:
 
-* [Gitlab](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
+* [Gitlab Repository](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
+* [Website on Gitlab Pages](https://nolim1t.gitlab.io/bitcoin-merchant-starter-kit/)
 
 ## Mobile Wallets
 
 The easiest solution is to have a dedicated phone set up for receiving payments. As most people know how to use the phone.
 
-* [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments. You can set up prices for your items in these too.
-* [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments
+* [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments. You can set up prices for your items in the app too. Available on Android and iOS.
+* [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments. Available on Android and iOS.
+* [Phoenix Wallet](https://phoenix.acinq.co/) - For accepting lightning payments. However this is Android only. 
 
 ### What coins to accept
 
