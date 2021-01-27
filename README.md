@@ -11,10 +11,12 @@ Please see the following sections.
 
 * [Mobile Wallets](#mobile-wallets)
     * [What coins to accept](#what-coins-to-accept)
+    * [Setting up a mobile wallet](#setting-up-a-mobile-wallet)
 * [Server based Wallets](#server-based)
 * [POS Integration / Processing](#processing-the-payment-and-integration)
 * [Offloading the coins](#offloading-the-coins)
 * [Maintainer notes](#maintainers-notes)
+    * [Housekeeping Information](#housekeeping)
 * [Existing Merchants](#existing-merchants)
 
 ## Maintainers Notes
@@ -23,11 +25,13 @@ If you want to add to this document please see the below. Including mirroring.
 
 ### Housekeeping
 
+Some general information on how changes can be submitted.
+
 #### Changes
 
 Please open a [new issue](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/issues/new) with the change you would like to add.
 
-Or if you are more technical, you may fork this project and open a pull request.
+Or if you are more technical, you may [fork this project](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/forks/new) and open a [merge request](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/merge_requests/new).
 
 #### Mirrors
 
@@ -38,7 +42,9 @@ This project is available in the public domain on the following sites:
 
 ## Mobile Wallets
 
-The easiest solution is to have a dedicated phone set up for receiving payments. As most people know how to use the phone.
+The easiest solution is to have a dedicated phone set up for receiving payments.
+
+As most people know how to use a smartphone.
 
 * [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments. You can set up prices for your items in the app too. Available on Android and iOS.
 * [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments. Available on Android and iOS.
@@ -56,9 +62,11 @@ There is no right or wrong, however the most commonly traded ones in terms of vo
 * Bitcoin Cash (BCH)
 * Litecoin (LTC)
 
-But this is also up to the local market. You can't really go wrong with Bitcoin, Ethereum and Tether. 
+But this is also up to the local market. 
 
-Also please note that Tether is also pegged to the USD. It will follow the USD as opposed to your local currency. This may be good or bad.
+You can't really go wrong with Bitcoin, Ethereum and Tether. 
+
+Also please note that Tether is also pegged to the USD. It will follow/track the USD as opposed to your local currency. This may be good or bad.
 
 ### Setting up a mobile wallet
 
@@ -75,6 +83,8 @@ With a repurposed laptop or Raspberry PI with at least 600 GB worth of space, I 
 This requires a little bit of technical chops, but it offers the best first class experience for bitcoin and lightning users. Not to mention access to this is available on any web browser.
 
 But you must be able to consult someone locally for this type of method if you are not sure or to go ahead with this.
+
+Another alternative which requires a little more knowledge is [BTCPayserver](https://btcpayserver.org/). This is probably a bit better than the Umbrel project, but requires more technical ability.
 
 ## Processing the payment and Integration
 
