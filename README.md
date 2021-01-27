@@ -10,6 +10,7 @@ There are multiple ways of doing this. At the easiest and quickest way, we recom
 Please see the following sections.
 
 * [Mobile Wallets](#mobile-wallets)
+    * [What coins to accept](#what-coins-to-accept)
 * [Server based Wallets](#server-based)
 * [POS Integration / Processing](#processing-the-payment-and-integration)
 * [Offloading the coins](#offloading-the-coins)
