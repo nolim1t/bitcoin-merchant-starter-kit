@@ -86,15 +86,23 @@ The only difference is the cash does not get stored in the till, and the use of 
 
 ## Offloading the coins
 
-We recommend due to the low volume of transactions and the potential of them increasing in value, that you hold on to the coins. Think of it as small savings.
+We recommend due to the low volume of transactions and the potential of them increasing in value, that you hold on to the coins.
 
-Eventually the plan is to create a closed loop economy where there is enough services and goods to sustain this. Thank you for being an early adopter!
+Think of it as small savings.
+
+Eventually the plan is to create a closed loop economy where there is enough services and goods to sustain this.
+
+Thank you for being an early adopter!
 
 The next best option would be to use [Nexo](https://nexo.io) to obtain a cash loan based on your crypto assets to manage cashflow.
 
-Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or you can sell it locally directly. Or engage someone in the local community for full advise.
+Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally.
 
-A good local option that might be available to you use [HODLHODL](https://hodlhodl.com/join/LTZA) or [BISQ](http://bisq.network/). Otherwise, consult with one the local community members to provide you with other options too.
+Or you can sell it locally through someone you've met or trust in the local community.
+
+A good local option that might be available to you use [HODLHODL](https://hodlhodl.com/join/LTZA) or [BISQ](http://bisq.network/).
+
+Whatever option you pick, you should consult someone in the local community for the best advice depending on your situation.
 
 ## Existing Merchants
 
