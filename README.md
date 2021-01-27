@@ -108,3 +108,8 @@ Whatever option you pick, you should consult someone in the local community for 
 
 If you have built your business, few free to be requested to be added to [the following list](https://gitlab.com/nolim1t/bitcoin-merchants). You are required to show proof that you have done so too, or have someone show proof.
 
+As a merchant taking Bitcoin (and other peer to peer assets), you should also try to offer a promotion for doing so. 
+
+Given that the price will increase in the long run, most people may not want to let go of their coins, but a small discount or another offer may see otherwise.
+
+
