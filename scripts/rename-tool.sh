@@ -9,6 +9,7 @@
 READMECONTENTS=`cat README.md`
 cat >./index.md  <<EOF
 ---
+layout: default
 permalink: /
 ---
 
