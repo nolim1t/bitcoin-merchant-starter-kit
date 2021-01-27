@@ -38,8 +38,24 @@ This project is available in the public domain on the following sites:
 
 The easiest solution is to have a dedicated phone set up for receiving payments. As most people know how to use the phone.
 
-* [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments.
+* [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments. You can set up prices for your items in these too.
 * [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments
+
+### What coins to accept
+
+On determining which coins to accept with Coinomi wallet, you should always check the general liquidity in your area (how much people alo want to keep these coins).
+
+There is no right or wrong, however the most commonly traded ones in terms of volume are:
+
+* Bitcoin (BTC)
+* Ethereum (ETH)
+* Tether (USDT)
+* Bitcoin Cash (BCH)
+* Litecoin (LTC)
+
+But this is also up to the local market. You can't really go wrong with Bitcoin, Ethereum and Tether. 
+
+Also please note that Tether is also pegged to the USD. It will follow the USD as opposed to your local currency. This may be good or bad.
 
 ### Setting up a mobile wallet
 
@@ -53,11 +69,17 @@ You can also move most of the funds to your own wallet after it is above a certa
 
 With a repurposed laptop or Raspberry PI with at least 600 GB worth of space, I recommend using the [Umbrel](https://getumbrel.com) project.
 
-This requires a little bit of technical chops, but it offers the best first class experience for bitcoin and lightning users.
+This requires a little bit of technical chops, but it offers the best first class experience for bitcoin and lightning users. Not to mention access to this is available on any web browser.
+
+But you must be able to consult someone locally for this type of method if you are not sure or to go ahead with this.
 
 ## Processing the payment and Integration
 
-The best thing to do with existing point of sale systems is to treat this as a CASH sale. I've set up 2 businesses for this and they do this already. The only difference is the cash does not get stored in the till, and the use of an additional app.
+The best thing to do with existing point of sale systems is to treat this as a CASH sale.
+
+I've set up 2 businesses for this and they do this already. 
+
+The only difference is the cash does not get stored in the till, and the use of an additional app.
 
 ## Offloading the coins
 
@@ -65,11 +87,11 @@ We recommend due to the low volume of transactions and the potential of them inc
 
 Eventually the plan is to create a closed loop economy where there is enough services and goods to sustain this. Thank you for being an early adopter!
 
-The next best option would be to use [nexo](https://nexo.io) to obtain a cash loan based on your crypto assets to manage cashflow.
+The next best option would be to use [Nexo](https://nexo.io) to obtain a cash loan based on your crypto assets to manage cashflow.
 
 Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or you can sell it locally directly. Or engage someone in the local community for full advise.
 
-A good local option that might be available to you use [HODLHODL](https://hodlhodl.com)
+A good local option that might be available to you use [HODLHODL](https://hodlhodl.com). Otherwise, consult with one the local community to provide you with other options too.
 
 ## Existing Merchants
 
