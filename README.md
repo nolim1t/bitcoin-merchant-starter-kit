@@ -91,7 +91,7 @@ The next best option would be to use [Nexo](https://nexo.io) to obtain a cash lo
 
 Otherwise, you may also use an exchange such as [Binance](https://binance.com/) to convert the coins over to USDC or USDT where you can sell it locally. Or you can sell it locally directly. Or engage someone in the local community for full advise.
 
-A good local option that might be available to you use [HODLHODL](https://hodlhodl.com). Otherwise, consult with one the local community to provide you with other options too.
+A good local option that might be available to you use [HODLHODL](https://hodlhodl.com/join/LTZA). Otherwise, consult with one the local community to provide you with other options too.
 
 ## Existing Merchants
 
