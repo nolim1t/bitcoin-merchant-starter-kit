@@ -5,6 +5,10 @@ The purpose of this project is to provide awareness of how merchants can accept 
 
 There are multiple ways of doing this. At the easiest and quickest way, we recommend using mobile wallets.
 
+But the best way is to use an actual server solution.
+
+There is no right or wrong.
+
 ## Table of Contents
 
 * [Mobile Wallets](#mobile-wallets)
