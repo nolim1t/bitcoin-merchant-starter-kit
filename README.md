@@ -19,7 +19,6 @@ There is no right or wrong.
 * [Offloading the coins](#offloading-the-coins)
 * [Existing Merchants](#existing-merchants)
 * [Maintainer notes](#maintainers-notes)
-    * [Housekeeping Information](#housekeeping)
     * [Making Changes](#changes)
     * [Site mirrors](#mirrors)
     * [Contacting the Maintainer](#contact-info)
@@ -113,13 +112,9 @@ Given that the price will increase in the long run, most people may not want to 
 
 ## Maintainers Notes
 
-If you want to add to this document please see the below. Including mirroring.
+If you want to add to this document please see the below. Including mirroring, and contact information
 
-### Housekeeping
-
-Some general information on how changes can be submitted.
-
-#### Changes
+### Changes
 
 Please open a [new issue](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit/-/issues/new) with the change you would like to add.
 
@@ -127,13 +122,13 @@ Or if you are more technical, you may [fork this project](https://gitlab.com/nol
 
 Any changes to the repositories are automatically reflected on the site almost immediately.
 
-#### Mirrors
+### Mirrors
 
 Because we love decentralization, this project is available in the public domain on the following sites:
 
 * [Gitlab Repository](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
 * [Website on Gitlab Pages](https://nolim1t.gitlab.io/bitcoin-merchant-starter-kit/)
 
-#### Contact Info
+### Contact Info
 
 The current maintainer of this page can be contacted through email (PGP Key: [0xf6287b82CC84bcbd](https://keys.openpgp.org/search?q=f6287b82CC84bcbd)) or on [mastodon](https://social.nolim1t.co/@nolim1t)
