@@ -127,6 +127,7 @@ Any changes to the repositories are automatically reflected on the site almost i
 Because we love decentralization, this project is available in the public domain on the following sites:
 
 * [Gitlab Repository](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
+* [Github Repository](https://github.com/nolim1t/bitcoin-merchant-starter-kit)
 * [Website on Gitlab Pages](https://nolim1t.gitlab.io/bitcoin-merchant-starter-kit/)
 
 ### Contact Info
