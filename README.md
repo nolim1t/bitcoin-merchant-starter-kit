@@ -20,6 +20,7 @@ Please see the following sections.
     * [Housekeeping Information](#housekeeping)
     * [Making Changes](#changes)
     * [Site mirrors](#mirrors)
+    * [Contacting the Maintainer](#contact-info)
 
 ## Mobile Wallets
 
@@ -125,3 +126,7 @@ Because we love decentralization, this project is available in the public domain
 
 * [Gitlab Repository](https://gitlab.com/nolim1t/bitcoin-merchant-starter-kit)
 * [Website on Gitlab Pages](https://nolim1t.gitlab.io/bitcoin-merchant-starter-kit/)
+
+#### Contact Info
+
+The current maintainer of this page can be contacted through email (PGP Key: [0xf6287b82CC84bcbd](https://keys.openpgp.org/search?q=f6287b82CC84bcbd)) or on [mastodon](https://social.nolim1t.co/@nolim1t)
