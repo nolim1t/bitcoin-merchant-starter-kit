@@ -42,13 +42,13 @@ There is no right or wrong, however the most commonly traded ones in terms of vo
 
 * Bitcoin (BTC)
 * Ethereum (ETH)
-* Tether (USDT)
+* Tether (USDT) / USD Coin (USDC)
 * Bitcoin Cash (BCH)
 * Litecoin (LTC)
 
 But this is also up to the local market.
 
-You can't really go wrong with Bitcoin, Ethereum and Tether.
+You can't really go too wrong with Bitcoin (BTC), Ethereum (ETH) and Stablecoins (USDC/USDT).
 
 However, personally I would just stick with just Bitcoin (BTC) as its easier to find people / exchanges to trade with.
 
