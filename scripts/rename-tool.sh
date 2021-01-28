@@ -29,5 +29,7 @@ layout: default
 permalink: /license/
 ---
 
+# License
+
 ${LICENSECONTENTS}
 EOF
