@@ -7,8 +7,6 @@ There are multiple ways of doing this. At the easiest and quickest way, we recom
 
 ## Table of Contents
 
-Please see the following sections.
-
 * [Mobile Wallets](#mobile-wallets)
     * [What coins to accept](#what-coins-to-accept)
     * [Setting up a mobile wallet](#setting-up-a-mobile-wallet)
