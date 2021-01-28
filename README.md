@@ -112,7 +112,7 @@ Given that the price will increase in the long run, most people may not want to 
 
 ## Maintainers Notes
 
-If you want to add to this document please see the below. Including mirroring, and contact information
+If you want to add to this document please see the below. Including mirroring, and contact information. This document is governed by the [Unlicense](https://nolim1t.gitlab.io/bitcoin-merchant-starter-kit/license/) License.
 
 ### Changes
 
