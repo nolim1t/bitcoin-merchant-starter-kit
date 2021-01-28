@@ -6,7 +6,13 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
+# This is a script which converts the md files into usable files (to be run before jekyll build)
+
+# Grab existing files
 READMECONTENTS=`cat README.md`
+LICENSECONTENTS=`cat LICENSE.md`
+
+# Make README.md into default index (/)
 cat >./index.md  <<EOF
 ---
 layout: default
@@ -16,4 +22,12 @@ permalink: /
 ${READMECONTENTS}
 EOF
 
+# Make LICENSE.md into /license/
+cat >./LICENSE.md <<EOF
+---
+layout: default
+permalink: /license/
+---
 
+${LICENSECONTENTS}
+EOF
