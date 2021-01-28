@@ -70,6 +70,11 @@ But you must be able to consult someone locally for this type of method if you a
 
 Another alternative which requires a little more knowledge is [BTCPayserver](https://btcpayserver.org/). This is probably a bit better than the Umbrel project, but requires more technical ability to get set up.
 
+Other full node solutions of various difficulty and ease of use are:
+
+* [MyNodeBTC](https://mynodebtc.com/)
+* [RaspiBlitz](https://github.com/rootzoll/raspiblitz) - The oldest and most battle-tested.
+
 ## Processing the payment and Integration
 
 The best thing to do with existing point of sale systems is to treat this as a CASH sale.
