@@ -104,7 +104,7 @@ Whatever option you pick, you should consult someone in the local community for 
 
 ## Existing Merchants
 
-If you have built your business, few free to be requested to be added to [the following list](https://gitlab.com/nolim1t/bitcoin-merchants). You are required to show proof that you have done so too, or have someone show proof.
+If you have built your business, few free to be requested to be added to [the following list](https://nolim1t.gitlab.io/bitcoin-merchants/). You are required to show proof that you have done so too, or have someone show proof.
 
 As a merchant taking Bitcoin (and other peer to peer assets), you should also try to offer a promotion for doing so.
 
