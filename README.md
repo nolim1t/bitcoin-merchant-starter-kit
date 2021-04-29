@@ -29,9 +29,9 @@ The easiest solution is to have a dedicated phone set up for receiving payments.
 
 As most people know how to use a smartphone.
 
+* [Phoenix Wallet](https://phoenix.acinq.co/) - For accepting lightning payments as well as bitcoin onchain. However this is Android only with a beta for iOS. Its promising, however you need to send an onchain payment first to open the initial lightning channels.
 * [Breez Wallet](https://breez.technology/) - For accepting **Bitcoin Lightning** payments. You can set up prices for your items in the app too. Available on Android and iOS.
 * [Coinnomi Wallet](https://www.coinomi.com/en/) - For accepting **on chain** payments. Available on Android and iOS.
-* [Phoenix Wallet](https://phoenix.acinq.co/) - For accepting lightning payments. However this is Android only. I don't know what the latest user experience for this is like at this time.
 
 ### What coins to accept
 
@@ -43,9 +43,10 @@ There is no right or wrong, however the most commonly traded ones in terms of vo
 * Ethereum (ETH)
 * Tether (USDT) / USD Coin (USDC)
 * Bitcoin Cash (BCH)
-* Litecoin (LTC)
+* Monero (XMR)
+* Dogecoin (DOGE)
 
-But this is also up to the local market.
+This may or may not be up to date, so it is best to consult with someone in your area who may also be the person to buy your coins that you don't want to keep off you.
 
 You can't really go too wrong with Bitcoin (BTC), Ethereum (ETH) and Stablecoins (USDC/USDT).
 
