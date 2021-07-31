@@ -134,4 +134,4 @@ Because we love decentralization, this project is available in the public domain
 
 ### Contact Info
 
-The current maintainer of this page can be contacted through email (PGP Key: [0xf6287b82CC84bcbd](https://keys.openpgp.org/search?q=f6287b82CC84bcbd)) or on [mastodon](https://social.nolim1t.co/@nolim1t)
+The current maintainer of this page can be contacted through email (PGP Key: [0xf6287b82CC84bcbd](https://keys.openpgp.org/search?q=f6287b82CC84bcbd)) or on [mastodon](https://bitcoinhackers.org/@nolim1t) / [twitter](https://twitter.com/nolim1t)
